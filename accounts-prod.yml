@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the EazyBank accounts related API (prod)"
+  message: "Welcome to the EazyBank accounts related API (WEBHOOOOOKS)"
   contactDetails:
     name: "Sulea Spataru"
     email: "{cipher}d5efe499d5b01188c4ef9a21b9c2c59c72d4d39457d90894628d9a08bb66f3a3ea8ff71773d6e584ecc8937c71d9d38a"

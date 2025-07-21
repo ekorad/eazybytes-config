@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the EazyBank accounts related API (QA)"
+  contactDetails:
+    name: "Ionut Vasile"
+    email: "ionut@example.com"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 123-5678

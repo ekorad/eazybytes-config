@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the EazyBank accounts related API (DEFAULT)"
+  message: "Welcome to the EazyBank accounts related API (DEFAULT PROFILE)"
   contactDetails:
     name: "John Doe"
     email: "john@example.com"
